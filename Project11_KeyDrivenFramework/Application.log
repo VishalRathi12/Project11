@@ -1,0 +1,205 @@
+2020-08-08 16:31:22  [TC3] (main:) Login For the Testcase 3
+2020-08-08 16:31:29  [TC3] (main:) Click on the Subscription Tab
+2020-08-08 16:31:39  [TC3] (main:) Sign oy for the Test case 3
+2020-08-08 16:32:07  [TC4] (main:) Login for the TC4
+2020-08-08 16:32:17  [TC4] (main:) Click on the Subscription tab
+2020-08-08 16:32:21  [TC4] (main:) Click on the Video
+2020-08-08 16:32:49  [TC4] (main:) Login for the Login page
+2020-08-08 16:33:19  [TC4] (main:) Log in for the TC6
+2020-08-08 16:33:32  [TC4] (main:) Click on the Video
+2020-08-08 16:33:50  [TC4] (main:) Added a Comment
+2020-08-08 16:34:00  [TC4] (main:) Sign Out for the Video
+2020-08-08 16:34:28  [TC4] (main:) Login for the TC7
+2020-08-08 16:34:35  [TC4] (main:) Click on the Library tab
+2020-08-08 16:34:43  [TC4] (main:) Sign Out for the TC7
+2020-08-08 16:35:09  [TC4] (main:) Login for the TC8
+2020-08-08 16:35:18  [TC4] (main:) Click on the Three dot 
+2020-08-08 16:35:18  [TC4] (main:) Click on the Add to Next buttin
+2020-08-08 16:35:26  [TC4] (main:) Click on the Sign Out button for the TC8
+2020-08-08 16:47:21  [TC3] (main:) Login For the Testcase 3
+2020-08-08 16:47:27  [TC3] (main:) Click on the Subscription Tab
+2020-08-08 16:47:39  [TC3] (main:) Sign oy for the Test case 3
+2020-08-08 16:48:03  [TC4] (main:) Login for the TC4
+2020-08-08 16:48:09  [TC4] (main:) Click on the Subscription tab
+2020-08-08 16:48:12  [TC4] (main:) Click on the Video
+2020-08-08 16:48:38  [TC5] (main:) Login for the Login page
+2020-08-08 16:49:09  [TC6] (main:) Log in for the TC6
+2020-08-08 16:49:17  [TC6] (main:) Click on the Video
+2020-08-08 16:49:35  [TC6] (main:) Added a Comment
+2020-08-08 16:49:44  [TC6] (main:) Sign Out for the Video
+2020-08-08 16:50:10  [TC7] (main:) Login for the TC7
+2020-08-08 16:50:20  [TC7] (main:) Click on the Library tab
+2020-08-08 16:50:29  [TC7] (main:) Sign Out for the TC7
+2020-08-08 16:50:55  [TC8] (main:) Login for the TC8
+2020-08-08 16:51:02  [TC8] (main:) Click on the Three dot 
+2020-08-08 16:51:03  [TC8] (main:) Click on the Add to Next buttin
+2020-08-08 16:51:11  [TC8] (main:) Click on the Sign Out button for the TC8
+2020-08-08 17:08:58  [TC3] (main:) Login For the Testcase 3
+2020-08-08 17:09:06  [TC3] (main:) Click on the Subscription Tab
+2020-08-08 17:09:16  [TC3] (main:) Sign oy for the Test case 3
+2020-08-08 17:09:38  [TC4] (main:) Login for the TC4
+2020-08-08 17:09:44  [TC4] (main:) Click on the Subscription tab
+2020-08-08 17:09:47  [TC4] (main:) Click on the Video
+2020-08-08 17:10:13  [TC5] (main:) Login for the Login page
+2020-08-08 17:10:41  [TC6] (main:) Log in for the TC6
+2020-08-08 17:10:50  [TC6] (main:) Click on the Video
+2020-08-08 17:11:07  [TC6] (main:) Added a Comment
+2020-08-08 17:11:19  [TC6] (main:) Sign Out for the Video
+2020-08-08 17:13:58  [TC7] (main:) Login for the TC7
+2020-08-08 17:14:10  [TC7] (main:) Click on the Library tab
+2020-08-08 17:14:19  [TC7] (main:) Sign Out for the TC7
+2020-08-08 17:14:50  [TC8] (main:) Login for the TC8
+2020-08-08 17:15:03  [TC8] (main:) Click on the Three dot 
+2020-08-08 17:15:04  [TC8] (main:) Click on the Add to Next buttin
+2020-08-08 17:15:13  [TC8] (main:) Click on the Sign Out button for the TC8
+2020-08-08 17:36:21  [TC5] (main:) Login for the Login page
+2020-08-08 23:55:35  [TC2] (main:) Login For TC2 completed
+2020-08-08 23:55:41  [TC2] (main:) Click on the Trending button
+2020-08-08 23:55:50  [TC2] (main:) SignOut of the TestCase 2
+2020-08-08 23:56:12  [TC3] (main:) Login For the Testcase 3
+2020-08-08 23:56:16  [TC3] (main:) Click on the Subscription Tab
+2020-08-08 23:56:25  [TC3] (main:) Sign oy for the Test case 3
+2020-08-08 23:56:46  [TC4] (main:) Login for the TC4
+2020-08-08 23:56:50  [TC4] (main:) Click on the Subscription tab
+2020-08-08 23:56:53  [TC4] (main:) Click on the Video
+2020-08-08 23:57:13  [TC5] (main:) Login for the Login page
+2020-08-08 23:57:39  [TC6] (main:) Log in for the TC6
+2020-08-08 23:57:46  [TC6] (main:) Click on the Video
+2020-08-08 23:58:03  [TC6] (main:) Added a Comment
+2020-08-08 23:58:12  [TC6] (main:) Sign Out for the Video
+2020-08-08 23:58:33  [TC7] (main:) Login for the TC7
+2020-08-08 23:58:36  [TC7] (main:) Click on the Library tab
+2020-08-08 23:58:45  [TC7] (main:) Sign Out for the TC7
+2020-08-08 23:59:06  [TC8] (main:) Login for the TC8
+2020-08-08 23:59:10  [TC8] (main:) Click on the Three dot 
+2020-08-08 23:59:10  [TC8] (main:) Click on the Add to Next buttin
+2020-08-09 00:01:38  [TC4] (main:) Login for the TC4
+2020-08-09 00:01:42  [TC4] (main:) Click on the Subscription tab
+2020-08-09 00:01:45  [TC4] (main:) Click on the Video
+2020-08-09 00:16:42  [TC4] (main:) Login for the TC4
+2020-08-09 00:16:46  [TC4] (main:) Click on the Subscription tab
+2020-08-09 00:16:49  [TC4] (main:) Click on the Video
+2020-08-09 00:28:13  [TC4] (main:) Login for the TC4
+2020-08-09 00:28:21  [TC4] (main:) Click on the Subscription tab
+2020-08-09 00:28:24  [TC4] (main:) Click on the Video
+2020-08-09 00:28:25  [TC4] (main:) Click on the Like Button
+2020-08-09 00:28:34  [TC4] (main:) Sign Out for the TC4
+2020-08-09 00:32:10  [TC5] (main:) Login for the Login page
+2020-08-09 00:34:53  [TC5] (main:) Login for the Login page
+2020-08-09 00:34:57  [TC5] (main:) Click on the Subscription tab
+2020-08-09 00:35:00  [TC5] (main:) Click on the video
+2020-08-09 00:35:00  [TC5] (main:) Click on the Subscribe button
+2020-08-09 00:35:12  [TC5] (main:) Sign Out for the TC5
+2020-08-09 00:35:52  [TC8] (main:) Login for the TC8
+2020-08-09 00:35:56  [TC8] (main:) Click on the Three dot 
+2020-08-09 00:35:56  [TC8] (main:) Click on the Add to Next buttin
+2020-08-09 00:36:05  [TC8] (main:) Click on the Sign Out button for the TC8
+2020-08-09 00:36:41  [TC2] (main:) Login For TC2 completed
+2020-08-09 00:36:47  [TC2] (main:) Click on the Trending button
+2020-08-09 00:36:56  [TC2] (main:) SignOut of the TestCase 2
+2020-08-09 00:37:18  [TC3] (main:) Login For the Testcase 3
+2020-08-09 00:37:22  [TC3] (main:) Click on the Subscription Tab
+2020-08-09 00:37:31  [TC3] (main:) Sign oy for the Test case 3
+2020-08-09 00:37:52  [TC4] (main:) Login for the TC4
+2020-08-09 00:37:56  [TC4] (main:) Click on the Subscription tab
+2020-08-09 00:37:59  [TC4] (main:) Click on the Video
+2020-08-09 00:37:59  [TC4] (main:) Click on the Like Button
+2020-08-09 00:38:08  [TC4] (main:) Sign Out for the TC4
+2020-08-09 00:38:29  [TC5] (main:) Login for the Login page
+2020-08-09 00:38:33  [TC5] (main:) Click on the Subscription tab
+2020-08-09 00:38:37  [TC5] (main:) Click on the video
+2020-08-09 00:38:37  [TC5] (main:) Click on the Subscribe button
+2020-08-09 00:39:05  [TC6] (main:) Log in for the TC6
+2020-08-09 00:39:12  [TC6] (main:) Click on the Video
+2020-08-09 00:39:29  [TC6] (main:) Added a Comment
+2020-08-09 00:39:38  [TC6] (main:) Sign Out for the Video
+2020-08-09 00:40:00  [TC7] (main:) Login for the TC7
+2020-08-09 00:40:04  [TC7] (main:) Click on the Library tab
+2020-08-09 00:40:13  [TC7] (main:) Sign Out for the TC7
+2020-08-09 00:40:33  [TC8] (main:) Login for the TC8
+2020-08-09 00:40:37  [TC8] (main:) Click on the Three dot 
+2020-08-09 00:40:38  [TC8] (main:) Click on the Add to Next buttin
+2020-08-09 00:40:46  [TC8] (main:) Click on the Sign Out button for the TC8
+2020-08-09 00:42:48  [TC5] (main:) Login for the Login page
+2020-08-09 00:42:52  [TC5] (main:) Click on the Subscription tab
+2020-08-09 00:42:55  [TC5] (main:) Click on the video
+2020-08-09 00:42:56  [TC5] (main:) Click on the Subscribe button
+2020-08-09 00:43:07  [TC5] (main:) Sign Out for the TC5
+2020-08-09 00:43:46  [TC2] (main:) Login For TC2 completed
+2020-08-09 00:43:52  [TC2] (main:) Click on the Trending button
+2020-08-09 00:44:01  [TC2] (main:) SignOut of the TestCase 2
+2020-08-09 00:44:22  [TC3] (main:) Login For the Testcase 3
+2020-08-09 00:44:26  [TC3] (main:) Click on the Subscription Tab
+2020-08-09 00:44:35  [TC3] (main:) Sign oy for the Test case 3
+2020-08-09 00:44:57  [TC4] (main:) Login for the TC4
+2020-08-09 00:45:01  [TC4] (main:) Click on the Subscription tab
+2020-08-09 00:45:04  [TC4] (main:) Click on the Video
+2020-08-09 00:45:04  [TC4] (main:) Click on the Like Button
+2020-08-09 00:45:13  [TC4] (main:) Sign Out for the TC4
+2020-08-09 00:45:34  [TC5] (main:) Login for the Login page
+2020-08-09 00:45:38  [TC5] (main:) Click on the Subscription tab
+2020-08-09 00:45:41  [TC5] (main:) Click on the video
+2020-08-09 00:45:42  [TC5] (main:) Click on the Subscribe button
+2020-08-09 00:45:54  [TC5] (main:) Sign Out for the TC5
+2020-08-09 00:46:17  [TC6] (main:) Log in for the TC6
+2020-08-09 00:46:24  [TC6] (main:) Click on the Video
+2020-08-09 00:46:59  [TC7] (main:) Login for the TC7
+2020-08-09 00:47:03  [TC7] (main:) Click on the Library tab
+2020-08-09 00:47:12  [TC7] (main:) Sign Out for the TC7
+2020-08-09 00:47:33  [TC8] (main:) Login for the TC8
+2020-08-09 00:47:37  [TC8] (main:) Click on the Three dot 
+2020-08-09 00:47:38  [TC8] (main:) Click on the Add to Next buttin
+2020-08-09 00:47:46  [TC8] (main:) Click on the Sign Out button for the TC8
+2020-08-09 00:50:35  [TC2] (main:) Login For TC2 completed
+2020-08-09 00:50:42  [TC2] (main:) Click on the Trending button
+2020-08-09 00:50:51  [TC2] (main:) SignOut of the TestCase 2
+2020-08-09 00:51:11  [TC3] (main:) Login For the Testcase 3
+2020-08-09 00:51:14  [TC3] (main:) Click on the Subscription Tab
+2020-08-09 00:51:23  [TC3] (main:) Sign oy for the Test case 3
+2020-08-09 00:51:44  [TC4] (main:) Login for the TC4
+2020-08-09 00:51:48  [TC4] (main:) Click on the Subscription tab
+2020-08-09 00:51:51  [TC4] (main:) Click on the Video
+2020-08-09 00:51:51  [TC4] (main:) Click on the Like Button
+2020-08-09 00:52:00  [TC4] (main:) Sign Out for the TC4
+2020-08-09 00:52:20  [TC5] (main:) Login for the Login page
+2020-08-09 00:52:23  [TC5] (main:) Click on the Subscription tab
+2020-08-09 00:52:27  [TC5] (main:) Click on the video
+2020-08-09 00:52:27  [TC5] (main:) Click on the Subscribe button
+2020-08-09 00:52:55  [TC6] (main:) Log in for the TC6
+2020-08-09 00:53:01  [TC6] (main:) Click on the Video
+2020-08-09 00:53:19  [TC6] (main:) Added a Comment
+2020-08-09 00:53:28  [TC6] (main:) Sign Out for the Video
+2020-08-09 00:53:49  [TC7] (main:) Login for the TC7
+2020-08-09 00:53:52  [TC7] (main:) Click on the Library tab
+2020-08-09 00:54:01  [TC7] (main:) Sign Out for the TC7
+2020-08-09 00:54:21  [TC8] (main:) Login for the TC8
+2020-08-09 00:54:25  [TC8] (main:) Click on the Three dot 
+2020-08-09 00:54:25  [TC8] (main:) Click on the Add to Next buttin
+2020-08-09 00:54:33  [TC8] (main:) Click on the Sign Out button for the TC8
+2020-08-09 01:01:50  [TC2] (main:) Login For TC2 completed
+2020-08-09 01:01:56  [TC2] (main:) Click on the Trending button
+2020-08-09 01:02:06  [TC2] (main:) SignOut of the TestCase 2
+2020-08-09 01:02:26  [TC3] (main:) Login For the Testcase 3
+2020-08-09 01:02:30  [TC3] (main:) Click on the Subscription Tab
+2020-08-09 01:02:40  [TC3] (main:) Sign oy for the Test case 3
+2020-08-09 01:03:00  [TC4] (main:) Login for the TC4
+2020-08-09 01:03:05  [TC4] (main:) Click on the Subscription tab
+2020-08-09 01:03:08  [TC4] (main:) Click on the Video
+2020-08-09 01:03:09  [TC4] (main:) Click on the Like Button
+2020-08-09 01:03:18  [TC4] (main:) Sign Out for the TC4
+2020-08-09 01:03:40  [TC5] (main:) Login for the Login page
+2020-08-09 01:03:44  [TC5] (main:) Click on the Subscription tab
+2020-08-09 01:03:47  [TC5] (main:) Click on the video
+2020-08-09 01:03:48  [TC5] (main:) Click on the Subscribe button
+2020-08-09 01:04:00  [TC5] (main:) Sign Out for the TC5
+2020-08-09 01:04:21  [TC6] (main:) Log in for the TC6
+2020-08-09 01:04:28  [TC6] (main:) Click on the Video
+2020-08-09 01:04:45  [TC6] (main:) Added a Comment
+2020-08-09 01:04:55  [TC6] (main:) Sign Out for the Video
+2020-08-09 01:05:15  [TC7] (main:) Login for the TC7
+2020-08-09 01:05:18  [TC7] (main:) Click on the Library tab
+2020-08-09 01:05:28  [TC7] (main:) Sign Out for the TC7
+2020-08-09 01:05:49  [TC8] (main:) Login for the TC8
+2020-08-09 01:05:52  [TC8] (main:) Click on the Three dot 
+2020-08-09 01:05:53  [TC8] (main:) Click on the Add to Next buttin
+2020-08-09 01:06:02  [TC8] (main:) Click on the Sign Out button for the TC8

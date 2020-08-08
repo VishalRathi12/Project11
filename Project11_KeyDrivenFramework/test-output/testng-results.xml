@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="275764" started-at="2020-08-09T01:01:27 IST" finished-at="2020-08-09T01:06:03 IST">
+    <groups>
+    </groups>
+    <test name="Command line test f541b389-9085-4536-9af7-c142debc783d" duration-ms="275764" started-at="2020-08-09T01:01:27 IST" finished-at="2020-08-09T01:06:03 IST">
+      <class name="org.testing.Testscripts.TC2">
+        <test-method status="PASS" signature="baseMethod1()[pri:0, instance:org.testing.Testscripts.TC2@3fee9989]" name="baseMethod1" is-config="true" duration-ms="11429" started-at="2020-08-09T01:01:27 IST" finished-at="2020-08-09T01:01:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod1 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:org.testing.Testscripts.TC2@3fee9989]" name="method1" duration-ms="27013" started-at="2020-08-09T01:01:39 IST" finished-at="2020-08-09T01:02:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="baseMethod2()[pri:0, instance:org.testing.Testscripts.TC2@3fee9989]" name="baseMethod2" is-config="true" duration-ms="702" started-at="2020-08-09T01:02:06 IST" finished-at="2020-08-09T01:02:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod2 -->
+      </class> <!-- org.testing.Testscripts.TC2 -->
+      <class name="org.testing.Testscripts.TC6">
+        <test-method status="PASS" signature="baseMethod1()[pri:0, instance:org.testing.Testscripts.TC6@5700d6b1]" name="baseMethod1" is-config="true" duration-ms="9599" started-at="2020-08-09T01:04:01 IST" finished-at="2020-08-09T01:04:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.testing.Testscripts.TC6@5700d6b1]" name="method2" duration-ms="44421" started-at="2020-08-09T01:04:10 IST" finished-at="2020-08-09T01:04:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="baseMethod2()[pri:0, instance:org.testing.Testscripts.TC6@5700d6b1]" name="baseMethod2" is-config="true" duration-ms="739" started-at="2020-08-09T01:04:55 IST" finished-at="2020-08-09T01:04:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod2 -->
+      </class> <!-- org.testing.Testscripts.TC6 -->
+      <class name="org.testing.Testscripts.TC5">
+        <test-method status="PASS" signature="baseMethod1()[pri:0, instance:org.testing.Testscripts.TC5@1ce92674]" name="baseMethod1" is-config="true" duration-ms="10412" started-at="2020-08-09T01:03:19 IST" finished-at="2020-08-09T01:03:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.testing.Testscripts.TC5@1ce92674]" name="method2" duration-ms="30556" started-at="2020-08-09T01:03:30 IST" finished-at="2020-08-09T01:04:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="baseMethod2()[pri:0, instance:org.testing.Testscripts.TC5@1ce92674]" name="baseMethod2" is-config="true" duration-ms="756" started-at="2020-08-09T01:04:00 IST" finished-at="2020-08-09T01:04:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod2 -->
+      </class> <!-- org.testing.Testscripts.TC5 -->
+      <class name="org.testing.Testscripts.TC4">
+        <test-method status="PASS" signature="baseMethod1()[pri:0, instance:org.testing.Testscripts.TC4@7085bdee]" name="baseMethod1" is-config="true" duration-ms="9415" started-at="2020-08-09T01:02:40 IST" finished-at="2020-08-09T01:02:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.testing.Testscripts.TC4@7085bdee]" name="method2" duration-ms="28331" started-at="2020-08-09T01:02:50 IST" finished-at="2020-08-09T01:03:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="baseMethod2()[pri:0, instance:org.testing.Testscripts.TC4@7085bdee]" name="baseMethod2" is-config="true" duration-ms="1123" started-at="2020-08-09T01:03:18 IST" finished-at="2020-08-09T01:03:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod2 -->
+      </class> <!-- org.testing.Testscripts.TC4 -->
+      <class name="org.testing.Testscripts.TC3">
+        <test-method status="PASS" signature="baseMethod1()[pri:0, instance:org.testing.Testscripts.TC3@73ad2d6]" name="baseMethod1" is-config="true" duration-ms="9546" started-at="2020-08-09T01:02:06 IST" finished-at="2020-08-09T01:02:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.testing.Testscripts.TC3@73ad2d6]" name="method2" duration-ms="23578" started-at="2020-08-09T01:02:16 IST" finished-at="2020-08-09T01:02:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="baseMethod2()[pri:0, instance:org.testing.Testscripts.TC3@73ad2d6]" name="baseMethod2" is-config="true" duration-ms="700" started-at="2020-08-09T01:02:40 IST" finished-at="2020-08-09T01:02:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod2 -->
+      </class> <!-- org.testing.Testscripts.TC3 -->
+      <class name="org.testing.Testscripts.TC8">
+        <test-method status="PASS" signature="baseMethod1()[pri:0, instance:org.testing.Testscripts.TC8@5bcab519]" name="baseMethod1" is-config="true" duration-ms="9961" started-at="2020-08-09T01:05:29 IST" finished-at="2020-08-09T01:05:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.testing.Testscripts.TC8@5bcab519]" name="method2" duration-ms="23807" started-at="2020-08-09T01:05:39 IST" finished-at="2020-08-09T01:06:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="baseMethod2()[pri:0, instance:org.testing.Testscripts.TC8@5bcab519]" name="baseMethod2" is-config="true" duration-ms="650" started-at="2020-08-09T01:06:02 IST" finished-at="2020-08-09T01:06:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod2 -->
+      </class> <!-- org.testing.Testscripts.TC8 -->
+      <class name="org.testing.Testscripts.TC7">
+        <test-method status="PASS" signature="baseMethod1()[pri:0, instance:org.testing.Testscripts.TC7@6fd02e5]" name="baseMethod1" is-config="true" duration-ms="9432" started-at="2020-08-09T01:04:56 IST" finished-at="2020-08-09T01:05:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.testing.Testscripts.TC7@6fd02e5]" name="method2" duration-ms="22872" started-at="2020-08-09T01:05:05 IST" finished-at="2020-08-09T01:05:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="baseMethod2()[pri:0, instance:org.testing.Testscripts.TC7@6fd02e5]" name="baseMethod2" is-config="true" duration-ms="649" started-at="2020-08-09T01:05:28 IST" finished-at="2020-08-09T01:05:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseMethod2 -->
+      </class> <!-- org.testing.Testscripts.TC7 -->
+    </test> <!-- Command line test f541b389-9085-4536-9af7-c142debc783d -->
+  </suite> <!-- Suite1 -->
+</testng-results>
